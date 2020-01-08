@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QR-Code Scanner</string>
+    <string name="focus_on_qr_code">Focus on QR-Code</string>
+</resources>
